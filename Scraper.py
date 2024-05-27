@@ -1,12 +1,14 @@
 ﻿# Imports #
 import enum
-
-import requests
-import pandas as pd
-from bs4 import BeautifulSoup
 import os
 import platform
 import subprocess
+
+# Imports needing pip install
+import requests               # pip install requests
+import pandas as pd           # pip install pandas
+from bs4 import BeautifulSoup # pip install BeautifulSoup
+# Dont forget pip install html5lib
 
 ## Time delay enum
 class TimeDelay(enum.Enum):
