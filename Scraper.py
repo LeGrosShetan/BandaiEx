@@ -7,7 +7,7 @@ import subprocess
 # Imports needing pip install
 import requests               # pip install requests
 import pandas as pd           # pip install pandas
-from bs4 import BeautifulSoup # pip install BeautifulSoup
+from bs4 import BeautifulSoup # pip install bs4
 # Dont forget pip install html5lib
 
 ## Time delay enum
