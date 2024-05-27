@@ -1,0 +1,344 @@
+Category;Group;Entry;Usage_%;Evolution_%
+OS Version;Windows;Windows 10 64 bit;0.5102;-0.0338
+OS Version;Windows;Windows 11 64 bit;0.4515;0.0354
+OS Version;Windows;Windows 7 64 bit;0.0043;-0.0006
+OS Version;Windows;Windows 8.1 64 bit;0.0008;0.0
+OS Version;OSX;MacOS 14.4.1 64 bit;0.0045000000000000005;0.0045000000000000005
+OS Version;OSX;MacOS 14.2.1 64 bit;0.0012;-0.0012
+OS Version;OSX;MacOS 14.3.1 64 bit;0.0008;-0.0019
+OS Version;OSX;MacOS 14.4.0 64 bit;0.0006;-0.0008
+OS Version;Linux;"""Arch Linux"" 64 bit";0.0016;0.0001
+OS Version;Linux;Ubuntu 22.04.4 LTS 64 bit;0.0012;0.0001
+OS Version;Linux;Linux Mint 21.3 64 bit;0.0008;0.0001
+OS Version;Linux;"""Manjaro Linux"" 64 bit";0.0006;-0.0001
+System RAM;;Less than 4 GB;0.0005;-0.0001
+System RAM;;4 GB;0.0269;-0.0009
+System RAM;;8 GB;0.1189;0.0015
+System RAM;;12 GB;0.0296;0.0009
+System RAM;;16 GB;0.4826;0.005600000000000001
+System RAM;;24 GB;0.0128;0.0009
+System RAM;;32 GB;0.2809;-0.012
+System RAM;;48 GB;0.0051;0.0051
+System RAM;;64 GB;0.031;0.0027
+System RAM;;More than 64 GB;0.0032;0.0003
+System RAM;;Other;0.0085;-0.004
+Intel CPU Speeds;;Unspecified;0.0;0.0
+Intel CPU Speeds;;Below 1.4 Ghz;0.0091;-0.0002
+Intel CPU Speeds;;1.4 Ghz to 1.49 Ghz;0.0021;-0.0001
+Intel CPU Speeds;;1.5 Ghz to 1.69 Ghz;0.0025;-0.0001
+Intel CPU Speeds;;1.7 Ghz to 1.99 Ghz;0.013000000000000001;0.0002
+Intel CPU Speeds;;2.0 Ghz to 2.29 Ghz;0.04;-0.0039000000000000003
+Intel CPU Speeds;;2.3 Ghz to 2.69 Ghz;0.22260000000000002;-0.0049
+Intel CPU Speeds;;2.7 Ghz to 2.99 Ghz;0.12619999999999998;-0.0173
+Intel CPU Speeds;;3.0 Ghz to 3.29 Ghz;0.060599999999999994;-0.001
+Intel CPU Speeds;;3.3 Ghz to 3.69 Ghz;0.1477;0.006
+Intel CPU Speeds;;3.7 Ghz and above;0.028999999999999998;0.0
+Physical CPUs;;1 cpu;0.0005;0.0
+Physical CPUs;;2 cpus;0.052000000000000005;-0.0006
+Physical CPUs;;3 cpus;0.0025;-0.0004
+Physical CPUs;;4 cpus;0.2023;0.003
+Physical CPUs;;5 cpus;0.0003;0.0
+Physical CPUs;;6 cpus;0.3318;-0.0163
+Physical CPUs;;7 cpus;0.0001;0.0001
+Physical CPUs;;8 cpus;0.2069;0.0087
+Physical CPUs;;9 cpus;0.0;0.0
+Physical CPUs;;10 cpus;0.053200000000000004;-0.003
+Physical CPUs;;11 cpus;0.0002;0.0
+Physical CPUs;;12 cpus;0.0537;-0.0009
+Physical CPUs;;13 cpus;0.0;0.0
+Physical CPUs;;14 cpus;0.04;0.004699999999999999
+Physical CPUs;;15 cpus;0.0;0.0
+Physical CPUs;;16 cpus;0.0344;0.0012
+Physical CPUs;;17 cpus;0.0;0.0
+Physical CPUs;;18 cpus;0.0006;0.0001
+Physical CPUs;;19 cpus;0.0;0.0
+Physical CPUs;;20 cpus;0.0054;0.001
+Physical CPUs;;22 cpus;0.0;0.0
+Physical CPUs;;23 cpus;0.0;0.0
+Physical CPUs;;24 cpus;0.015700000000000002;0.0024
+Physical CPUs;;26 cpus;0.0;0.0
+Physical CPUs;;28 cpus;0.0001;-0.0001
+Physical CPUs;;30 cpus;0.0;0.0
+Physical CPUs;;32 cpus;0.0001;0.0
+Physical CPUs;;36 cpus;0.0;0.0
+Physical CPUs;;40 cpus;0.0;0.0
+Physical CPUs;;44 cpus;0.0;0.0
+Physical CPUs;;48 cpus;0.0;0.0
+Physical CPUs;;52 cpus;0.0;0.0
+Physical CPUs;;56 cpus;0.0;0.0
+Physical CPUs;;64 cpus;0.0;0.0
+Physical CPUs;;96 cpus;0.0;0.0
+Physical CPUs;;128 cpus;0.0;0.0
+Video Card Description;;NVIDIA GeForce RTX 3060;0.0555;-0.0116
+Video Card Description;;NVIDIA GeForce GTX 1650;0.042;0.0025
+Video Card Description;;NVIDIA GeForce RTX 3060 Ti;0.0359;-0.0034000000000000002
+Video Card Description;;NVIDIA GeForce RTX 2060;0.035;-0.0048
+Video Card Description;;NVIDIA GeForce GTX 1060;0.0339;-0.0021
+Video Card Description;;NVIDIA GeForce RTX 3070;0.0338;-0.0048
+Video Card Description;;NVIDIA GeForce RTX 3060 Laptop GPU;0.0335;0.0039000000000000003
+Video Card Description;;NVIDIA GeForce RTX 4060 Laptop GPU;0.0277;0.0049
+Video Card Description;;NVIDIA GeForce RTX 3050;0.026699999999999998;0.0026
+Video Card Description;;NVIDIA GeForce GTX 1050 Ti;0.024;0.0006
+Video Card Description;;NVIDIA GeForce RTX 4060;0.0233;-0.0017000000000000001
+Video Card Description;;NVIDIA GeForce GTX 1660 SUPER;0.0219;0.001
+Video Card Description;;NVIDIA GeForce RTX 4070;0.021400000000000002;-0.0028000000000000004
+Video Card Description;;NVIDIA GeForce RTX 3080;0.0213;-0.001
+Video Card Description;;NVIDIA GeForce RTX 4060 Ti;0.0199;-0.0003
+Video Card Description;;AMD Radeon Graphics;0.0197;0.0006
+Video Card Description;;Intel Iris Xe Graphics;0.018600000000000002;0.0001
+Video Card Description;;NVIDIA GeForce GTX 1660 Ti;0.015700000000000002;0.0005
+Video Card Description;;NVIDIA GeForce RTX 3070 Ti;0.0147;-0.0006
+Video Card Description;;Intel(R) UHD Graphics;0.0141;0.0003
+Video Card Description;;NVIDIA GeForce RTX 4070 Ti;0.0129;0.0012
+Video Card Description;;NVIDIA GeForce RTX 2060 SUPER;0.0127;-0.0012
+Video Card Description;;NVIDIA GeForce RTX 2070 SUPER;0.0123;-0.0003
+Video Card Description;;NVIDIA GeForce GTX 1070;0.0118;0.0001
+Video Card Description;;NVIDIA GeForce GTX 1050;0.011699999999999999;0.0004
+Video Card Description;;NVIDIA GeForce GTX 1660;0.009899999999999999;-0.0014000000000000002
+Video Card Description;;NVIDIA GeForce RTX 3050 Ti Laptop GPU;0.009899999999999999;0.0007000000000000001
+Video Card Description;;AMD Radeon(TM) Graphics;0.0098;0.001
+Video Card Description;;;0.0098;-0.0002
+Video Card Description;;NVIDIA GeForce RTX 4090;0.0096;0.0011
+Video Card Description;;NVIDIA GeForce RTX 2070;0.009399999999999999;-0.002
+Video Card Description;;AMD Radeon RX 580;0.0083;0.0002
+Video Card Description;;NVIDIA GeForce RTX 4080;0.0078000000000000005;0.0003
+Video Card Description;;NVIDIA GeForce GTX 1080;0.0078000000000000005;0.0
+Video Card Description;;NVIDIA GeForce RTX 3080 Ti;0.0077;0.0004
+Video Card Description;;NVIDIA GeForce RTX 3070 Laptop GPU;0.0074;0.0006
+Video Card Description;;NVIDIA GeForce RTX 4050 Laptop GPU;0.0074;0.0009
+Video Card Description;;AMD Radeon RX 6600;0.0072;0.0008
+Video Card Description;;AMD Radeon RX 6700 XT;0.0070999999999999995;0.0006
+Video Card Description;;NVIDIA GeForce GTX 1650 Ti;0.0068000000000000005;0.0005
+Video Card Description;;NVIDIA GeForce RTX 3050 Laptop GPU;0.006500000000000001;0.0005
+Video Card Description;;AMD Radeon RX 5700 XT;0.0064;0.0004
+Video Card Description;;AMD Radeon RX 570;0.006;0.0004
+Video Card Description;;AMD AMD Custom GPU 0405;0.006;-0.0007000000000000001
+Video Card Description;;NVIDIA GeForce RTX 3090;0.0054;0.0002
+Video Card Description;;NVIDIA GeForce GTX 1080 Ti;0.0053;0.0001
+Video Card Description;;AMD Radeon RX 580 2048SP;0.0053;0.0007000000000000001
+Video Card Description;;AMD Radeon Vega 8 Graphics;0.0051;0.0
+Video Card Description;;NVIDIA GeForce GTX 1650 SUPER;0.0049;0.0003
+Video Card Description;;NVIDIA GeForce RTX 2080 SUPER;0.004699999999999999;-0.0006
+Video Card Description;;Intel UHD Graphics 620;0.004699999999999999;0.0
+Video Card Description;;NVIDIA GeForce GTX 970;0.0044;0.0002
+Video Card Description;;NVIDIA GeForce RTX 4070 Laptop GPU;0.0042;0.0008
+Video Card Description;;NVIDIA GeForce RTX 2080;0.0042;-0.0003
+Video Card Description;;NVIDIA GeForce RTX 4070 SUPER;0.0040999999999999995;0.0014000000000000002
+Video Card Description;;AMD Radeon RX 6600 XT;0.0040999999999999995;0.0003
+Video Card Description;;NVIDIA GeForce GTX 960;0.0040999999999999995;0.0001
+Video Card Description;;NVIDIA GeForce GT 1030;0.004;0.0001
+Video Card Description;;NVIDIA GeForce GTX 1070 Ti;0.004;0.0001
+Video Card Description;;AMD Radeon RX 7900 XTX;0.0039000000000000003;0.0004
+Video Card Description;;NVIDIA GeForce RTX 2080 Ti;0.0038;0.0002
+Video Card Description;;NVIDIA GeForce GTX 750 Ti;0.0038;0.0003
+Video Card Description;;NVIDIA GeForce RTX 3070 Ti Laptop GPU;0.0037;0.0003
+Video Card Description;;Intel UHD Graphics 630;0.0037;0.0
+Video Card Description;;AMD Radeon RX 6750 XT;0.0034000000000000002;0.0004
+Video Card Description;;AMD Radeon RX 6800 XT;0.0031;0.0003
+Video Card Description;;AMD Radeon RX 6650 XT;0.0031;0.0004
+Video Card Description;;AMD Radeon RX 550;0.0029;0.0001
+Video Card Description;;NVIDIA GeForce GT 730;0.0027;0.0002
+Video Card Description;;AMD Radeon Vega 3 Graphics;0.0027;-0.0001
+Video Card Description;;Intel HD Graphics 520;0.0027;-0.0001
+Video Card Description;;Intel HD Graphics 620;0.0026;-0.0002
+Video Card Description;;Intel HD Graphics 4600;0.0024;0.0
+Video Card Description;;NVIDIA GeForce RTX 3050 Ti;0.0023;0.0003
+Video Card Description;;AMD Radeon RX 6900 XT;0.0022;0.0002
+Video Card Description;;AMD Radeon RX 5600 XT;0.0022;0.0002
+Video Card Description;;Intel UHD Graphics 600;0.0022;-0.0002
+Video Card Description;;Intel HD Graphics 4000;0.0021;-0.0001
+Video Card Description;;AMD Radeon Graphics (RADV VANGOGH);0.0021;0.0002
+Video Card Description;;NVIDIA GeForce RTX 4080 SUPER;0.0021;0.0021
+Video Card Description;;AMD Radeon RX 6800;0.002;0.0004
+Video Card Description;;NVIDIA GeForce RTX 4070 Ti SUPER;0.002;0.002
+Video Card Description;;NVIDIA GeForce RTX 2050;0.002;0.0002
+Video Card Description;;AMD Radeon RX 6500 XT;0.002;0.0003
+Video Card Description;;AMD Radeon RX 5500 XT;0.0019;0.0001
+Video Card Description;;NVIDIA GeForce RTX 3080 Laptop GPU;0.0018;0.0002
+Video Card Description;;AMD Radeon (TM) Graphics;0.0017000000000000001;0.0001
+Video Card Description;;Intel Ivy Bridge;0.0017000000000000001;0.0001
+Video Card Description;;NVIDIA GeForce RTX 4080 Laptop GPU;0.0017000000000000001;0.0017000000000000001
+Video Card Description;;AMD Radeon RX 480;0.0016;0.0
+Video Card Description;;Intel Haswell;0.0016;0.0
+Video Card Description;;NVIDIA GeForce GT 710;0.0016;0.0
+Video Card Description;;NVIDIA GeForce GTX 960M;0.0016;0.0
+Video Card Description;;NVIDIA GeForce MX250;0.0016;0.0016
+Video Card Description;;NVIDIA GeForce MX450;0.0015;0.0015
+Video Card Description;;NVIDIA GeForce 940M;0.0015;0.0
+Video Card Description;;Other;0.0932;-0.0031
+VRAM;;128 MB;0.008;0.008
+VRAM;;512 MB;0.0281;0.004
+VRAM;;1 GB;0.0567;-0.0009
+VRAM;;2 GB;0.039900000000000005;0.003
+VRAM;;3 GB;0.0163;-0.0008
+VRAM;;4 GB;0.09050000000000001;0.0084
+VRAM;;6 GB;0.1445;-0.0031
+VRAM;;8 GB;0.341;-0.010700000000000001
+VRAM;;10 GB;0.0315;-0.0006
+VRAM;;11 GB;0.015;0.0011
+VRAM;;12 GB;0.1709;-0.0123
+VRAM;;16 GB;0.0248;0.0040999999999999995
+VRAM;;24 GB;0.0248;0.003
+VRAM;;Other;0.0078000000000000005;0.0023
+Primary Display Resolution;;800 x 1280;0.0044;0.0
+Primary Display Resolution;;1280 x 720;0.0022;0.0
+Primary Display Resolution;;1280 x 800;0.0046;-0.0006
+Primary Display Resolution;;1280 x 1024;0.0034999999999999996;0.0001
+Primary Display Resolution;;1360 x 768;0.0063;0.0001
+Primary Display Resolution;;1366 x 768;0.0342;-0.0004
+Primary Display Resolution;;1440 x 900;0.0104;0.0001
+Primary Display Resolution;;1600 x 900;0.0101;0.0002
+Primary Display Resolution;;1680 x 1050;0.006500000000000001;0.0003
+Primary Display Resolution;;1920 x 1200;0.011200000000000002;0.0007000000000000001
+Primary Display Resolution;;1920 x 1080;0.5843;-0.0002
+Primary Display Resolution;;2560 x 1440;0.18899999999999997;-0.0096
+Primary Display Resolution;;2560 x 1080;0.009300000000000001;0.0004
+Primary Display Resolution;;2560 x 1600;0.0322;0.0033
+Primary Display Resolution;;2880 x 1800;0.0028000000000000004;0.0002
+Primary Display Resolution;;3440 x 1440;0.022799999999999997;0.0017000000000000001
+Primary Display Resolution;;3840 x 2160;0.0381;0.0037
+Primary Display Resolution;;5120 x 1440;0.0029;0.0001
+Primary Display Resolution;;Other;0.025099999999999997;-0.0001
+Multi-Monitor Desktop Resolution;;1920 x 2160;0.017;-0.0004
+Multi-Monitor Desktop Resolution;;2560 x 2520;0.009399999999999999;0.0004
+Multi-Monitor Desktop Resolution;;2944 x 1080;0.0046;0.0
+Multi-Monitor Desktop Resolution;;3000 x 1920;0.045;0.0008
+Multi-Monitor Desktop Resolution;;3200 x 1080;0.024399999999999998;-0.0004
+Multi-Monitor Desktop Resolution;;3280 x 1080;0.0148;-0.0002
+Multi-Monitor Desktop Resolution;;3286 x 1080;0.0298;0.001
+Multi-Monitor Desktop Resolution;;3360 x 1080;0.016200000000000003;0.0006
+Multi-Monitor Desktop Resolution;;3440 x 2520;0.0052;0.0
+Multi-Monitor Desktop Resolution;;3520 x 1080;0.0194;-0.0006
+Multi-Monitor Desktop Resolution;;3600 x 1080;0.015;0.0
+Multi-Monitor Desktop Resolution;;3640 x 1920;0.0316;0.0012
+Multi-Monitor Desktop Resolution;;3840 x 1080;0.5811999999999999;-0.0014000000000000002
+Multi-Monitor Desktop Resolution;;3840 x 1081;0.011200000000000002;0.0
+Multi-Monitor Desktop Resolution;;3840 x 1082;0.0068000000000000005;-0.0002
+Multi-Monitor Desktop Resolution;;3840 x 1083;0.0098;0.0004
+Multi-Monitor Desktop Resolution;;3840 x 1084;0.0074;-0.0002
+Multi-Monitor Desktop Resolution;;3840 x 1085;0.0066;0.0
+Multi-Monitor Desktop Resolution;;3840 x 1086;0.0062;-0.0004
+Multi-Monitor Desktop Resolution;;3840 x 1087;0.0048;0.0
+Multi-Monitor Desktop Resolution;;3840 x 1088;0.0044;-0.0002
+Multi-Monitor Desktop Resolution;;3840 x 1200;0.016399999999999998;-0.0012
+Multi-Monitor Desktop Resolution;;3840 x 2160;0.0092;-0.0002
+Multi-Monitor Desktop Resolution;;4000 x 2560;0.0118;0.0008
+Multi-Monitor Desktop Resolution;;4480 x 1080;0.0176;-0.0004
+Multi-Monitor Desktop Resolution;;4480 x 1440;0.23800000000000002;0.0044
+Multi-Monitor Desktop Resolution;;4480 x 1600;0.0078000000000000005;0.0004
+Multi-Monitor Desktop Resolution;;4520 x 1920;0.0066;0.0
+Multi-Monitor Desktop Resolution;;4920 x 1920;0.008199999999999999;0.0002
+Multi-Monitor Desktop Resolution;;4920 x 2160;0.0046;0.0046
+Multi-Monitor Desktop Resolution;;5120 x 1440;0.0848;-0.0008
+Multi-Monitor Desktop Resolution;;5120 x 1600;0.0052;0.0002
+Multi-Monitor Desktop Resolution;;5120 x 2880;0.0046;-0.0002
+Multi-Monitor Desktop Resolution;;5360 x 1440;0.0276;0.0
+Multi-Monitor Desktop Resolution;;5560 x 1920;0.0052;-0.0002
+Multi-Monitor Desktop Resolution;;5760 x 1080;0.0318;-0.0008
+Multi-Monitor Desktop Resolution;;5760 x 2160;0.0496;0.0
+Multi-Monitor Desktop Resolution;;6000 x 1440;0.012199999999999999;-0.0002
+Multi-Monitor Desktop Resolution;;6400 x 1440;0.0172;-0.0004
+Multi-Monitor Desktop Resolution;;6400 x 2160;0.0288;0.001
+Multi-Monitor Desktop Resolution;;7040 x 1440;0.0052;-0.0002
+Multi-Monitor Desktop Resolution;;7280 x 2160;0.004;-0.0002
+Multi-Monitor Desktop Resolution;;7680 x 1440;0.0074;-0.0002
+Multi-Monitor Desktop Resolution;;7680 x 2160;0.0248;0.0008
+Multi-Monitor Desktop Resolution;;Other;0.5004;-0.008
+Language;;English;0.3318;0.0064
+Language;;Simplified Chinese;0.3031;-0.031200000000000002
+Language;;Russian;0.096;0.0124
+Language;;Spanish - Spain;0.0433;0.0009
+Language;;Portuguese-Brazil;0.0365;0.0008
+Language;;German;0.029500000000000002;0.0016
+Language;;Japanese;0.0262;0.0046
+Language;;French;0.0219;0.0006
+Language;;Polish;0.0166;0.0003
+Language;;Korean;0.0149;-0.0017000000000000001
+Language;;Traditional Chinese;0.0144;0.0015
+Language;;Turkish;0.0126;0.0009
+Language;;Thai;0.0091;0.0015
+Language;;Ukrainian;0.0066;0.0006
+Language;;Italian;0.0060999999999999995;0.0001
+Language;;Czech;0.0053;0.0001
+Language;;Spanish - Latin America;0.0040999999999999995;0.0003
+Language;;Portuguese - Portugal;0.0038;-0.0001
+Language;;Hungarian;0.0038;0.0001
+Language;;Swedish;0.0027;-0.0001
+Language;;Dutch;0.0026;0.0
+Language;;Danish;0.0024;0.0
+Language;;Finnish;0.0017000000000000001;0.0002
+Language;;Romanian;0.0013;0.0
+Language;;Norwegian;0.0013;0.0
+Language;;Vietnamese;0.001;0.0002
+Language;;Greek;0.0006;0.0
+Language;;Indonesian;0.0005;0.0002
+Language;;Bulgarian;0.0004;0.0
+Language;;Arabic;0.0;0.0
+Free Hard Drive Space;;Unspecified;0.0;0.0
+Free Hard Drive Space;;Less than 10 GB;0.0088;0.0008
+Free Hard Drive Space;;10 GB to  99 GB;0.1561;0.0118
+Free Hard Drive Space;;100 GB to 249 GB;0.2257;0.0144
+Free Hard Drive Space;;250 GB to 499 GB;0.2148;0.0084
+Free Hard Drive Space;;500 GB to 749 GB;0.11109999999999999;0.0037
+Free Hard Drive Space;;750 GB to 999 GB;0.09119999999999999;0.0021
+Free Hard Drive Space;;1 TB to 2 TB;0.099;-0.0034000000000000002
+Free Hard Drive Space;;2 TB to 3 TB;0.026600000000000002;-0.006
+Free Hard Drive Space;;3 TB to 4 TB;0.022000000000000002;-0.0040999999999999995
+Free Hard Drive Space;;Above 4 TB;0.0447;-0.0275
+Total Hard Drive Space;;Unspecified;0.0;0.0
+Total Hard Drive Space;;Less than 10 GB;0.0;0.0
+Total Hard Drive Space;;10 GB to  99 GB;0.0026;-0.0002
+Total Hard Drive Space;;100 GB to 249 GB;0.0604;-0.0001
+Total Hard Drive Space;;250 GB to 499 GB;0.18420000000000003;0.0087
+Total Hard Drive Space;;500 GB to 749 GB;0.0313;0.0025
+Total Hard Drive Space;;750 GB to 999 GB;0.1673;0.0147
+Total Hard Drive Space;;Above 1 TB;0.5542;-0.0255
+VR Headsets;;Oculus Quest 2;0.3803;0.0019
+VR Headsets;;Valve Index HMD;0.1592;-0.0076
+VR Headsets;;Meta Quest 3;0.1549;0.0046
+VR Headsets;;Oculus Rift S;0.0754;-0.0063
+VR Headsets;;HTC Vive;0.044800000000000006;-0.0003
+VR Headsets;;Windows Mixed Reality;0.039900000000000005;-0.0027
+VR Headsets;;Oculus Rift;0.037200000000000004;-0.0011
+VR Headsets;;Pico 4;0.029900000000000003;0.0075
+VR Headsets;;Oculus Quest;0.0108;-0.0005
+VR Headsets;;HTC Vive Pro;0.0106;0.0004
+VR Headsets;;HTC Vive Pro 2;0.0078000000000000005;0.0004
+VR Headsets;;Pico Neo 3;0.0074;0.0017000000000000001
+VR Headsets;;Meta Quest Pro;0.0059;0.0015
+VR Headsets;;iVRy;0.0038;-0.0014000000000000002
+VR Headsets;;HTC VIVE XR Elite;0.0038;0.0021
+VR Headsets;;Pimax 8K;0.0029;-0.0007000000000000001
+VR Headsets;;Bigscreen Beyond;0.0027;0.0009
+VR Headsets;;Riftcat Vridge;0.0026;-0.0
+VR Headsets;;HTC Vive Cosmos;0.0026;-0.0055000000000000005
+VR Headsets;;Varjo Aero;0.0011;-0.0005
+VR Headsets;;DPVR E4;0.0007000000000000001;0.0002
+VR Headsets;;Sony PlayStation VR;0.0006;-0.0001
+VR Headsets;;Oculus Rift DK2;0.0005;0.0001
+VR Headsets;;Iriun VR;0.0004;-0.0002
+VR Headsets;;Pimax 5K Plus;0.0003;0.0
+VR Headsets;;Pico Neo 2;0.0002;-0.0001
+VR Headsets;;Oculus Rift DK1;0.0001;-0.0
+VR Headsets;;Other;0.0138;0.0059
+Other Settings;;SSE2;1.0;0.0
+Other Settings;;SSE3;1.0;0.0
+Other Settings;;CMPXCHG16B;1.0;0.0
+Other Settings;;LAHF / SAHF;1.0;0.0
+Other Settings;;SSSE3;0.998;0.0001
+Other Settings;;SSE4.1;0.9972;0.0001
+Other Settings;;SSE4.2;0.9962000000000001;0.0001
+Other Settings;;FCMOV;0.9865;0.0003
+Other Settings;;AES;0.9840000000000001;0.0001
+Other Settings;;AVX;0.9719;0.0006
+Other Settings;;NTFS;0.9665;0.0008
+Other Settings;;AVX2;0.9362;0.0008
+Other Settings;;HyperThreading;0.8661;0.005600000000000001
+Other Settings;;SHA;0.6392;0.014499999999999999
+Other Settings;;SSE4a;0.3372;0.021400000000000002
+Other Settings;;AVX512CD;0.1166;0.0045000000000000005
+Other Settings;;AVX512F;0.1166;0.0045000000000000005
+Other Settings;;AVX512VNNI;0.1158;0.0045000000000000005
+Other Settings;;PrefetchW;0.0;0.0
+Other Settings;;AVX512ER;0.0;0.0
+Other Settings;;AVX512PF;0.0;0.0
